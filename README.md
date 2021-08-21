@@ -1,12 +1,10 @@
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krimanisha&label=Profile%20views&color=129e00&style=plastic" alt="krimanisha" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1428359/screenshots/4789906/girl_hi_800x600.gif">
+<img align="right" alt="Coding" width="400" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
 
 ### Hi there 👋, I am Manisha Kumari.
 
 - 🔭 I’m currently pre-final year undergraduate student.
-- 🌱 I’m currently learning Web Development and DSA.
-- 👯 I’m looking to collaborate on open source.
+- 🌱 I’m currently learning Web Development and DSA.<!-- - 👯 I’m looking to collaborate on open source. -->
 - 💬 Hobbies: Playing Badminton and watching videos.
 - 📫 How to reach me: krimanisha666@gmail.com
 - ⚡ Fun fact: I'm spry kind of girl.
