@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I am Manisha Kumari.
 
-- 🔭 I’m currently pre-final year undergraduate student.
+- 🔭 I’m currently final year undergraduate student.
 - 🌱 I’m currently learning Web Development and DSA.<!-- - 👯 I’m looking to collaborate on open source. -->
 - 💬 Hobbies: Playing Badminton and watching videos.
 - 📫 How to reach me: krimanisha666@gmail.com
